@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -22,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repositorie](https://github.com/NN-NT-TN/qr-code)
+- Live Site URL: [Live site URL](https://nn-nt-tn.github.io/qr-code/)
 
 ## My process
 
@@ -31,19 +30,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - HTML5 markup
 - CSS custom properties
-
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- Deploy with github pages
 
 ### What I learned
 
 - CSS fonts
 - Image sizing in CSS 
-
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-
+- How rescoures are load on github pages
 
 ### Continued development
 
@@ -54,4 +47,4 @@ Not much left to continued develope aside from maybe better optimizing CSS to be
 - (https://www.w3schools.com) - This helped me for most of my CSS when there something i don't know or forgot
 
 ## Author
-- Frontend Mentor - (https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - ([My Profile](https://www.frontendmentor.io/profile/NN-NT-TN))
