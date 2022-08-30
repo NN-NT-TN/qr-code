@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/NN-NT-TN/qr-code)
-- Live Site URL: [Add live site URL here](https://nn-nt-tn.github.io/qr-code/)
+- Solution URL: [Repositories](https://github.com/NN-NT-TN/qr-code)
+- Live Site URL: [Live site URL](https://nn-nt-tn.github.io/qr-code/)
 
 ## My process
 
@@ -47,4 +47,4 @@ Not much left to continued develope aside from maybe better optimizing CSS to be
 - (https://www.w3schools.com) - This helped me for most of my CSS when there something i don't know or forgot
 
 ## Author
-- Frontend Mentor - ([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/NN-NT-TN))
+- Frontend Mentor - ([My Profile](https://www.frontendmentor.io/profile/NN-NT-TN))
